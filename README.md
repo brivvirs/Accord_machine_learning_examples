@@ -3,6 +3,6 @@
 
 ## hello
 
-Takes two dimensional array as an input to learn a model using `Gaussian distribution` function.
+Takes two dimensional arrays as an input to train a model using `Gaussian distribution` function.
 Accuracy is measured using `100` + `100` input pairs. Prediction result is printed on the screen.
 
